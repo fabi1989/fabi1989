@@ -17,7 +17,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: Soy `Junior` 
-- :technologist:**Actualmente trabajando como ** `Frontend Development`
+- :technologist:**Actualmente como ** `Frontend Development`
 - :email:**Escribeme**[![Enviame un Email]](mailto:zambranosalcedo@gmail.com)
 - :nerd_face: Cree Siempre `"Eres lo que amaste"`
 
