@@ -18,7 +18,6 @@
 
 - :school: Soy `Junior` 
 - :technologist:**Actualmente como ** `Frontend Development`
-- :email:**Escribeme**[![Enviame un Email]](mailto:zambranosalcedo@gmail.com)
 - :nerd_face: Cree Siempre `"Eres lo que amaste"`
 
 <br>
