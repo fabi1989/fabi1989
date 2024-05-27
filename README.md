@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: Soy `Junior` 
+- :school: Soy `Aprendiz Junior` 
 - :technologist:**Actualmente como ** `Frontend Development`
 - :nerd_face: Cree Siempre `"Eres lo que amaste"`
 
